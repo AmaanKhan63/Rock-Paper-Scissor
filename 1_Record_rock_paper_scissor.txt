@@ -1,0 +1,48 @@
+
+Date : Tue Jun 29 10:38:26 2021
+USER : Paper > COMPUTER : Rock
+Result of the Match : USER WINS!!!
+
+Date : Tue Jun 29 10:38:41 2021
+USER : Scissor = COMPUTER : Scissor
+Result of the Match : IT'S A DRAW!
+
+Date : Tue Jun 29 10:38:45 2021
+USER : Scissor < COMPUTER : Rock
+Result of the Match : COMPUTER WINS!!!
+
+Date : Tue Jun 29 10:38:49 2021
+USER : Rock < COMPUTER : Paper
+Result of the Match : COMPUTER WINS!!!
+
+Date : Tue Jun 29 10:40:16 2021
+USER : Paper < COMPUTER : Scissor
+Result of the Match : COMPUTER WINS!!!
+
+Date : Tue Jun 29 10:42:42 2021
+USER : Scissor > COMPUTER : Paper 
+Result of the Match : USER WINS!!!
+
+Date : Tue Jun 29 10:44:53 2021
+USER : Paper > COMPUTER : Rock 
+Result of the Match : USER WINS!!!
+
+Date : Tue Jun 29 10:58:54 2021
+USER : Rock < COMPUTER : Paper 
+Result of the Match : COMPUTER WINS!!!
+
+Date : Thu Jul  1 20:32:45 2021
+USER : Rock = COMPUTER : Rock 
+Result of the Match : IT'S A DRAW!
+
+Date : Thu Sep 30 14:32:09 2021
+USER : Scissor = COMPUTER : Scissor 
+Result of the Match : IT'S A DRAW!
+
+Date : Thu Sep 30 14:32:22 2021
+USER : Rock = COMPUTER : Rock 
+Result of the Match : IT'S A DRAW!
+
+Date : Thu Sep 30 14:32:30 2021
+USER : Scissor < COMPUTER : Rock 
+Result of the Match : COMPUTER WINS!!!
